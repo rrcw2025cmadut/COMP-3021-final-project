@@ -1,3 +1,4 @@
+// Loads content for webpage
 document.addEventListener("DOMContentLoaded", () => {
     // Donation Tracker
     const donationForm = document.getElementById("donations");
